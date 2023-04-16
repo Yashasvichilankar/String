@@ -13,6 +13,5 @@ System.out.println("Enter second String: ");
 s2=sc.nextLine();
 
 System.out.println("Comparing "+s1+" and "+s2+" : "+s1.equals(s2));
-
 }
 }
